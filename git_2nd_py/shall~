@@ -1,3 +1,8 @@
 #!/bin/bash
 
-echo “i want to be a good programmer”
+<<<<<<< HEAD
+echo “i will be a full stack developer”
+
+=======
+echo “i love my job"
+>>>>>>> programmer
